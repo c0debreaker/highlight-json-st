@@ -1,4 +1,4 @@
-# Prettifying JSON files in Sublime Text
+# Prettify your JSON files in Sublime Text
 
 ## What is it for?
 
@@ -16,7 +16,7 @@ First you have to know which theme you installed and which one is currently acti
 
 Anyways, on SublimeText's menu on top, click Preferences -> Browse Packages. When I did this, it opened the Packages window containing different folders. Click on User -> then click on Color Higlighter -> then finally click on themes folder. I have 2 files, Afterflow.tmTheme and Monokai(SL).tmTheme
 
-Open the appropriate theme file. It's an example. It's an xml file so better not ruin it when you paste the code from our attributes-for-json.xml. I just put mine before </array> then I saved it. Right after saving it, the json file was beautified. :)
+Open the appropriate theme file. It's an example. It's an xml file so better not ruin it when you paste the code from our attributes-for-json.xml. I just put mine before `</array>` then I saved it. Right after saving it, the json file was beautified. :)
 
 ## JSON before the changes
 ![Image of Before Changes](/before.png)

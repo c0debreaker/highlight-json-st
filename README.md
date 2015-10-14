@@ -2,7 +2,7 @@
 
 ## What is it for?
 
-Kinda bored with how my .json files appear in Sublime Text. I found a solution from this page, https://github.com/shaunakv1/twilight-tmTheme-better-json-highlight
+Kinda bored with how my .json files appear in Sublime Text. I found a solution from this page, [Twilight theme with better JSON Highlight](https://github.com/shaunakv1/twilight-tmTheme-better-json-highlight)
 
 I copied few lines from his xml code that is used for updating the colors of a json object. I wasn't sure if it was going to work because I was using a different theme, AfterGlow. Fortunately, it worked and I'm happy to share it with you!
 

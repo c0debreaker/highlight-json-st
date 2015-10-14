@@ -18,8 +18,9 @@ Anyways, on SublimeText's menu on top, click Preferences -> Browse Packages. Whe
 
 Open the appropriate theme file. It's an example. It's an xml file so better not ruin it when you paste the code from our attributes-for-json.xml. I just put mine before </array> then I saved it. Right after saving it, the json file was beautified. :)
 
-## How it look before the changes
+## JSON before the changes
+![Image of Before Changes](/before.png)
 
-
-## After changes
+## JSON after changes
+![Image of Before Changes](/after.png)
 
